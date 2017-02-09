@@ -1,0 +1,5 @@
+Demo\Test\Mobile\DefinitionTestSuite.class
+Demo\Test\Mobile\pages\DictionaryPage$1.class
+Demo\Test\Mobile\pages\DictionaryPage.class
+Demo\Test\Mobile\steps\serenity\EndUserSteps.class
+Demo\Test\Mobile\steps\DefinitionSteps.class
